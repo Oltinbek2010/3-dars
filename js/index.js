@@ -303,21 +303,21 @@
 // }
 // console.log(res);
 
-let A = +prompt ("A sonini kiriting");
-let B = +prompt ("B sonini kiriting");
-let C = +prompt ("C sonini kiriting");
-let res = '';
-if (A < B && B < C) {
-    res = B
-}if (B < A && A < C){
-res = B
-}if (A < C && C < B){
-res = C
-}if (A > B && B > C) {
-    res = B
-}if (B > A && A > C){
-res = B
-}if (A > C && C > B){
-res = C
-}
-console.log(res);
+// let A = +prompt ("A sonini kiriting");
+// let B = +prompt ("B sonini kiriting");
+// let C = +prompt ("C sonini kiriting");
+// let res = '';
+// if (A < B && B < C) {
+//     res = B
+// }if (B < A && A < C){
+// res = B
+// }if (A < C && C < B){
+// res = C
+// }if (A > B && B > C) {
+//     res = B
+// }if (B > A && A > C){
+// res = B
+// }if (A > C && C > B){
+// res = C
+// }
+// console.log(res);
